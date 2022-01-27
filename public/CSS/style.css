@@ -1,0 +1,47 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    
+}
+.navbar{
+    background-color: #d4b3ca;
+}
+.navbar-brand a{
+    color: rgb(45, 187, 57);
+    font-size: 3vh;
+    font-weight: bolder;
+}
+.collapse ul li {
+    color: #000;
+    font-weight: bolder;
+    font-size: 2vh;
+}
+.navbar-nav ul a:hover{ 
+    color: #3513ce; 
+
+}
+.text-dark{
+    color: rgb(248, 241, 241);
+    font-weight: bolder;
+    font-size: 2vh;
+    padding-top: 2vh;
+}
+.text-center{
+    color: rgb(250, 249, 249);
+    font-weight: bolder;
+    font-size: 2vh;
+    padding-top: 2vh;
+}
+.custom-login{
+
+    padding-top: 30vh;
+    padding-bottom: 30vh;
+}
+footer{
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 10vh;
+    background-color: #222;
+}
