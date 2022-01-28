@@ -40,7 +40,7 @@
         </ul>
       </li>
   
-      <li><a href="/login">Login</a></li>
+      <li><a href="#">Login</a></li>
      
       
     </div><!-- /.navbar-collapse -->

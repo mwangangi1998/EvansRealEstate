@@ -37,6 +37,14 @@ body{
     padding-top: 30vh;
     padding-bottom: 30vh;
 }
+.row{
+    
+    padding-top: 10vh;
+    max-height: 60vh;
+    height: 60vh;
+    background-color: #eee;
+}
+
 footer{
     position: relative;
     bottom: 0;
